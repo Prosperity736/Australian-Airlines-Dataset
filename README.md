@@ -10,7 +10,17 @@ australian-airlines-dataset/
 │   └── sample-dashboard.png
 │
 └── README.md             # project description
+RECOMMENDATION
+Market Share and Competitionn
+Insight:All Airlines and Qantas dominate the market share while Jetstar
+Regional Express and Skywest shows fluatuations,competition is uneven.
+Recommendation: Smaller airlines could focus on niche or underserved routes instead of competing head-to-head on major city routes. Major carriers should consider loyalty programs and bundled offers to retain market share.
 
+Recommendation: Airlines should review underperforming routes to reduce frequency, swap to smaller aircraft, or replace with code-share partnerships.
+
+Recommendation: Airlines could explore dynamic pricing strategies and ancillary revenue streams (baggage fees, onboard services, premium seating).
+
+Recommendation: Airlines should adjust flight capacity seasonally and offer promotions in low-demand months to balance loads.	Recommendation: Build contingency plans like flexible fleet use, stronger cash reserves, and diversified revenue (cargo operations, charter flights).
 
 
 ```sql
