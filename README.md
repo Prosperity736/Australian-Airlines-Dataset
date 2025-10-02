@@ -13,6 +13,7 @@ australian-airlines-dataset/
 
 
 
-```SELECT FROM * 
+```sql
+SELECT FROM * 
 FROM AustralianAirline1;
 
